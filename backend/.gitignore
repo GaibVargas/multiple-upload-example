@@ -1,3 +1,5 @@
 node_modules
 tmp/uploads/**
+!tmp
+!/tmp/uploads
 yarn-error.log
