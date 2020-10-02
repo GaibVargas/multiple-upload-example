@@ -1,7 +1,7 @@
 # Multiple uploads
 
 Project made to learn about upload files with Node.js and ReactJS.
-It was made following the Rocketseat tutorial, (click here)[https://www.youtube.com/watch?v=G5UZmvkLWSQ] to access.
+It was made following the Rocketseat tutorial, [click here](https://www.youtube.com/watch?v=G5UZmvkLWSQ) to access.
 
 ## Stack
 
